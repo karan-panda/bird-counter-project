@@ -1,0 +1,68 @@
+body {
+    background-image: url("bird.gif");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    height: 100%;
+}
+
+.container {
+    background: rgb(41, 3, 3);
+    color: white;
+    max-width: 80%;
+    margin: auto;
+    border: 10px solid black;
+    border-radius: 10px;
+    position: relative;
+    opacity: 75%;
+    padding: 10px;
+    font-weight: bolder;
+    border: 1px solid rgb(226, 36, 36);
+}
+
+button {
+    border: 1px solid rgb(226, 36, 36);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;  
+    color: white;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#inc-btn {
+    background-color: rgb(0, 64, 255);
+}
+
+#dec-btn {
+    background-color: rgb(184, 151, 3);
+}
+
+#zero-btn {
+    background-color: rgb(255, 0, 0);
+}
+
+#save-btn {
+    background-color: green;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
+#inc-el {
+    font-weight: bold;
+}
+
+#dec-el {
+    font-weight: bold;
+}
+
+#zero-el {
+    font-weight: bold;
+}
