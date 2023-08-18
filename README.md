@@ -1,9 +1,10 @@
 # Bird Counter App 🦜
 This project holds a special place as it was my first venture into the world of JavaScript✨.
-
-Check out the live demo of the Bird Counter App: [https://bird-counter-project.netlify.app/](https://bird-counter-project.netlify.app/)
-
 It is a simple JavaScript website for counting birds. Keep track of the number of birds you've counted and save your entries for future reference.
+
+## Live Demo
+Check out the live demo of the Bird Counter App: [Live Demo link](https://bird-counter-project.netlify.app/)
+<iframe src="https://bird-counter-project.netlify.app/" title="Bird Counter App Demo" width="100%" height=700px></iframe>
 
 ## Features
 
