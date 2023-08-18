@@ -4,7 +4,6 @@ It is a simple JavaScript website for counting birds. Keep track of the number o
 
 ## Live Demo
 Check out the live demo of the Bird Counter App: [Live Demo link](https://bird-counter-project.netlify.app/)
-<iframe src="https://bird-counter-project.netlify.app/" title="Bird Counter App Demo" width="100%" height=700px></iframe>
 
 ## Features
 
