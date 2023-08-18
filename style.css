@@ -21,7 +21,47 @@ body {
     opacity: 75%;
     padding: 10px;
     font-weight: bolder;
-    border: 1px solid rgb(226, 36, 36);
+    border: 1px solid black;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: rgb(41, 3, 3);
+    list-style: none;
+    overflow: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    opacity: 0.75;
+    text-decoration: none;
+    -webkit-text-fill-color: white;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    float: left;
+    padding: 10px 5px;
+    margin: 2px 20px;
+}
+
+.navbar li a:hover {
+    color: #96ccbc;
+    transition: 0.3s;
+    transform: scale(1.1);
+}
+
+.search {
+    float: right;
+    margin: 5px 15px;
+    color: black;
+}
+
+.navbar input {
+    padding: 5px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-decoration: none;
 }
 
 button {

@@ -1,6 +1,7 @@
 let countEl = document.getElementById("count-el")
 let saveEl = document.getElementById("save-el")
-let count = 0
+let total = document.getElementById("total")
+let count = 0, sum = 0
 
 function increment() {
     count++;
@@ -19,5 +20,7 @@ function zero() {
 
 function save() {
     console.log(count)
-    saveEl.textContent += (count + " - ");
+    saveEl.textContent += (count + " -> ");
+    sum += count
+    total.textContent = "Aggregate Entries: " + sum
 }
