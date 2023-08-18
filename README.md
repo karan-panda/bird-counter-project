@@ -5,8 +5,9 @@ It is a simple JavaScript website for counting birds. Keep track of the number o
 ## Live Demo
 Check out the live demo of the Bird Counter App: [Live Demo link](https://bird-counter-project.netlify.app/)
 
-## Features
+![image](https://github.com/karan-panda/bird-counter-project/assets/108183567/697285ca-6080-4911-ac7e-8cc525b2d1a2)
 
+## Features
 - Increment and decrement buttons to adjust the bird count.
 - Reset button to set the bird count back to zero.
 - Save button to store the current count and calculate aggregate entries.
